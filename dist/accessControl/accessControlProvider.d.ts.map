@@ -1,0 +1,1 @@
+{"version":3,"file":"accessControlProvider.d.ts","sourceRoot":"","sources":["../../src/accessControl/accessControlProvider.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,KAAK,qBAAqB,EAC3B,MAAM,iBAAiB,CAAC;AAEzB,OAA4B,EAC1B,KAAK,mBAAmB,EACxB,KAAK,2BAA2B,EACjC,MAAM,uBAAuB,CAAC;AAE/B,QAAA,MAAM,qBAAqB,WACjB,mBAAmB,GAAG,2BAA2B,KACxD,qBASF,CAAC;AAEF,eAAe,qBAAqB,CAAC"}

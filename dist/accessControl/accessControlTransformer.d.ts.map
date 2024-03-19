@@ -1,0 +1,1 @@
+{"version":3,"file":"accessControlTransformer.d.ts","sourceRoot":"","sources":["../../src/accessControl/accessControlTransformer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,SAAS,EAAE,MAAM,iBAAiB,CAAC;AAEjD,OAAO,EAAE,KAAK,WAAW,EAAE,MAAM,qBAAqB,CAAC;AAGvD,eAAO,MAAM,UAAU,WAAY,SAAS,KAAG,WAsB9C,CAAC"}

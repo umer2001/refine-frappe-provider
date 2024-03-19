@@ -1,0 +1,1 @@
+{"version":3,"file":"generatePagination.d.ts","sourceRoot":"","sources":["../../../src/data/utils/generatePagination.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,KAAK,UAAU,EAChB,MAAM,iBAAiB,CAAC;AAEzB,KAAK,gBAAgB,GAAG;IACtB,gBAAgB,EAAE,MAAM,CAAC;IACzB,iBAAiB,EAAE,MAAM,CAAC;CAC3B,CAAC;AAEF,eAAO,MAAM,kBAAkB,WAAW,UAAU,GAAG,SAAS,KAAQ,gBAavE,CAAC"}
