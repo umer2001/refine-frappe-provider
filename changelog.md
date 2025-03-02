@@ -10,6 +10,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Allow `options` props to be pass to `accessControlProvider`
+## [0.0.7] - 2024-08-14
+
+### Added
+
+- Expose `DataParams` type
+
+## [0.0.6] - 2024-04-25
+
+### Added
+
+- Add `uploadFile` function
+
+### Changed
+
+- Update `eslint`, add `globals`
+- Update `custom` dataClient
+
+### Fixed
+
+- Allow `options` props to be pass to `accessControlProvider`
+- Export `authType`
+- Properly handle `error`
+- Export `DataParams` type
+- Fix ts compiled config
 
 ## [0.0.5] - 2024-03-06
 
